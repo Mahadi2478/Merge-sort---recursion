@@ -1,1 +1,1 @@
-# Merge-sort---recursion
+# Merge-sort - recursion
